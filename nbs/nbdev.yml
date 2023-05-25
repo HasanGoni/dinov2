@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dinov2"
+  site-url: "https://HasanGoni.github.io/dinov2"
+  description: "dinov2 code test"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/dinov2"
